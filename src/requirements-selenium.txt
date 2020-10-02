@@ -19,3 +19,4 @@ python-dateutil==2.7.5
 requests==2.21.0
 selenium==3.141.0
 tenacity==5.0.2
+urllib3>=1.25.9 # not directly required, pinned by Snyk to avoid a vulnerability
