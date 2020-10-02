@@ -35,3 +35,5 @@ webob==1.4.1
 wsgiref==0.1.2
 Mako==1.0.4
 Sphinx==1.4.6
+
+urllib3>=1.25.9 # not directly required, pinned by Snyk to avoid a vulnerability
