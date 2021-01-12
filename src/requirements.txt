@@ -39,3 +39,4 @@ setuptools==15.0
 Flask-SQLAlchemy==1.0
 uritemplate==3.0.0
 webencodings==0.5.1
+rsa>=4.7 # not directly required, pinned by Snyk to avoid a vulnerability
