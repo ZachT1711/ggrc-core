@@ -25,7 +25,7 @@ pep8==1.6.2
 pip==9.0.1
 py==1.4.30
 isort==4.2.15
-pylint==1.8.2
+pylint==2.6.1
 PyYAML==3.12
 requests==2.20.0
 selenium==2.47.3
