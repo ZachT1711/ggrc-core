@@ -13,7 +13,7 @@
     "doctoc": "^0.11.0",
     "font-awesome": "^4.7.0",
     "jquery": "^2.2.4",
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.21",
     "moment": "2.19.3",
     "moment-timezone": "^0.5.10",
     "mousetrap": "^1.6.0",
