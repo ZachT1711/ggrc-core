@@ -15,7 +15,7 @@ freezegun==0.3.8
 ipdb==0.8.1
 ipdbplugin==1.4.5
 ipython==3.2.0
-Jinja2==2.8
+Jinja2==2.11.3
 MarkupSafe==0.23
 mock==2.0.0
 names==0.3.0
