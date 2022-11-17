@@ -14,8 +14,8 @@ Flask-Testing==0.4.2
 freezegun==0.3.8
 ipdb==0.8.1
 ipdbplugin==1.4.5
-ipython==3.2.0
-Jinja2==2.8
+ipython==7.16.3
+Jinja2==2.11.3
 MarkupSafe==0.23
 mock==2.0.0
 names==0.3.0
@@ -35,3 +35,4 @@ webob==1.4.1
 wsgiref==0.1.2
 Mako==1.0.4
 Sphinx==1.4.6
+setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
