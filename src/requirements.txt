@@ -18,7 +18,7 @@ chardet==2.1.1
 enum34==1.1.6
 Flask-Assets==0.8
 Flask-Login==0.2.11
-Flask==0.10.1
+Flask==2.2.5
 git+https://github.com/danring/HamlPy.git#egg=HamlPy
 google-api-python-client==1.7.4
 httplib2==0.10.3
