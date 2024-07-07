@@ -35,3 +35,7 @@ webob==1.4.1
 wsgiref==0.1.2
 Mako==1.0.4
 Sphinx==1.4.6
+certifi>=2024.7.4 # not directly required, pinned by Snyk to avoid a vulnerability
+flask>=2.2.5 # not directly required, pinned by Snyk to avoid a vulnerability
+pygments>=2.15.0 # not directly required, pinned by Snyk to avoid a vulnerability
+werkzeug>=2.2.3 # not directly required, pinned by Snyk to avoid a vulnerability
