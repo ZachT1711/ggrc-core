@@ -31,7 +31,7 @@ requests==2.20.0
 selenium==2.47.3
 sniffer==0.3.5
 watchdog==0.8.3
-webob==1.4.1
+webob==1.8.8
 wsgiref==0.1.2
 Mako==1.0.4
 Sphinx==1.4.6
